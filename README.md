@@ -1,2 +1,6 @@
 # CS-370
 Emerging Trends in CS
+
+This course provided a strong introduction to current and upcoming trends in CS. It focused on the building blocks of artificial intelligence, such as machine learning and neural networks. These technologies enable the creation of new technologies like ChatGPT, a language model that appears to communicate like another human. The projects involved setting up a model to identify images provided for training the model. While the code was provided, we were tasked with adjusting the settings to attempt to train the models for greater accuracy. For the final project, we applied a reinforcement learning model to train a computer to solve a simple maze. Specifically, we created the main training loop of the application that incorporated all the key functionalities of a deep Q algorithm.
+
+Computer scientists understand the core functionality of a computer and apply that knowledge to use the computer as a tool to overcome difficult and complex tasks. I approach these tasks by clearly defining my goals and then applying a solution to achieve those goals. Additionally, I integrate quality of life features to efficiently and effectively attain the goal. My ethical responsibilities include protecting people's livelihoods and data
